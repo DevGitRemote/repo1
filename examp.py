@@ -1,0 +1,1 @@
+print "examp in child"
